@@ -1,16 +1,14 @@
-# lista_tarefas
+ # Lista de Tarefas
 
-A new Flutter project.
+Aplicativo para salvar e controlar tarefas utilizando JSON e ToDo List. Permite adicionar tarefa, marcar como concluída e atualizar para organizar as que foram realizadas separando das que estão pendentes, e por fim, remover as tarefas.
 
-## Getting Started
+![](giphy_lista1.gif)
 
-This project is a starting point for a Flutter application.
+![](giphy_lista2.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Clonar repositório
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+`` git clone https://github.com/thiagosr135/lista_tarefas.git ``
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Autor
+* **Thiago de Souza Ribeiro** - [thiagosr135](https://github.com/thiagosr135)
